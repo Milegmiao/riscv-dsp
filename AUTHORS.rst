@@ -1,6 +1,6 @@
 Authors
 -------
 
-* Junning WU (Initial Contributor) 
+* Junning Wu (Initial Contributor) 
 
 
