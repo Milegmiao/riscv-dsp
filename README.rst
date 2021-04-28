@@ -1,16 +1,9 @@
 HXS320F2802x
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+HXS320F2802X DSC系列是中科昊芯定点DSC平台上的最新产品，基于RISC-V开放指令集架构RV32IMC。它是一款非常高效的C/C++ 引擎，此引擎不但能够让用户能够用高级语言开发他们的控制系统软件，还能够使用C/C++开发数学算法。此器件在处理 DSP 算术任务时与处理系统控制任务时同样有效，而系统控制任务通常由微控制器器件处理。这样的效率在很多系统中省却了对第二个处理器的需要。
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+器件特性
 --------
 
 - Be awesome
@@ -26,16 +19,9 @@ Install $project by running:
 HXS320F2803x
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+HXS320F2803X DSC系列是中科昊芯定点DSC平台上的最新产品，基于RISC-V开放指令集架构RV32IMC，相比于HXS320F2802X，具有更大的片上存储资源和更丰富的外设资源。它是一款非常高效的C/C++ 引擎，此引擎不但能够让用户能够用高级语言开发他们的控制系统软件，还能够使用C/C++开发数学算法。此器件在处理DSP算术任务时与处理系统控制任务时同样有效，而系统控制任务通常由微控制器器件处理。这样的效率在很多系统中省却了对浮点处理器FPU的需要。
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+器件特性
 --------
 
 - Be awesome
@@ -57,8 +43,11 @@ Contribute
 Support
 =========
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+中科昊芯官方网站： haawking.com
+
+中科昊芯DSP 官方QQ交流群1：1021879873
+
+中科昊芯官方微信公众号： HAAWKING2019（“中科昊芯”）
 
 License
 ==========
