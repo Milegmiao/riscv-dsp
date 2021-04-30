@@ -19,6 +19,8 @@ Table of Contents
 
   HXS320F2803X/index
 
+  Board/index
+
 Indices and tables
 ==================
 
