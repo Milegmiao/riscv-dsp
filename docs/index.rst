@@ -14,7 +14,9 @@ Table of Contents
    :numbered:
 
 HaawkingIDE/index
+
 HXS320F2802X/index
+
 HXS320F2803X/index
 
 Indices and tables

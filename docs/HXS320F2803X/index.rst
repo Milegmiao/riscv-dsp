@@ -15,10 +15,5 @@ Contents:
 
 HXS320F28034PNT
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
