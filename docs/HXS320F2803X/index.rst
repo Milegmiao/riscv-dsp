@@ -13,7 +13,7 @@ Contents:
    :caption: HXS320F2803X:
 
 
-HXS320F28034PNT
+  HXS320F28034PNT
 
 
 
