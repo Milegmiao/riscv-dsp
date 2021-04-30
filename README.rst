@@ -7,8 +7,8 @@ HXS320F2802X DSC系列是中科昊芯定点DSC平台上的最新产品，基于R
 --------
 
 .. image:: docs/HXS320F28027/HXS320F28027PTT.png
-  :width: 400
-  :alt: Haawking-IDE-V0.5.0 
+  :width: 600
+  :alt: HXS320F28027PTT.png
     
 HXS320F2803x
 ========
@@ -19,8 +19,8 @@ HXS320F2803X DSC系列是中科昊芯定点DSC平台上的最新产品，基于R
 --------
 
 .. image:: docs/HXS320F28034/HXS320F28034PNT.png
-  :width: 400
-  :alt: Haawking-IDE-V0.5.0 
+  :width: 600
+  :alt: HXS320F28034PNT.png
 
 
 
