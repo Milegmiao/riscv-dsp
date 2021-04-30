@@ -2,6 +2,9 @@
 Haawking IDE
 ============
 
+Haawking™ IDE now provides the embedded development market with one toolset using a single debugger instance to program and debug any of Beijing Haakwing Technology Co., Ltd's RISC-V DSPs using JTAG or HX-LINK debug interfaces.
+
+
 V0.5.0
 ============
 
