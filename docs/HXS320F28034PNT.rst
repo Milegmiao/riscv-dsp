@@ -1,0 +1,6 @@
+器件特性
+--------
+
+.. image:: docs/HXS320F28034/HXS320F28034PNT.png
+  :width: 600
+  :alt: HXS320F28034PNT.png
