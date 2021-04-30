@@ -9,10 +9,9 @@ Welcome to RISC-V DSP HXS320F2803X Documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 3
-   :glob:
+   :maxdepth: 2
+   :caption: HXS320F2803X:
 
-   *
 
 HXS320F28034PNT
 
