@@ -6,15 +6,7 @@ HXS320F2802X DSC系列是中科昊芯定点DSC平台上的最新产品，基于R
 器件特性
 --------
 
-- Be awesome
-- Make things faster
 
-Installation
-------------
-
-Install $project by running:
-
-    install project
     
 HXS320F2803x
 ========
@@ -24,15 +16,7 @@ HXS320F2803X DSC系列是中科昊芯定点DSC平台上的最新产品，基于R
 器件特性
 --------
 
-- Be awesome
-- Make things faster
 
-Installation
-------------
-
-Install $project by running:
-
-    install project
 
 Contribute
 ==========
