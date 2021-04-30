@@ -6,13 +6,12 @@
 Welcome to RISC-V DSP's Documentation!
 ==================================================
 
-Contents:
+Table of Contents
+-------------------
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
+   :maxdepth: 3
+   :numbered:
 
 HaawkingIDE/index
 HXS320F2802X/index
