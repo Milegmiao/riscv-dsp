@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Haawking RISC-V DSP'
-copyright = u'2014, Read the Docs'
+copyright = u'2014, HAAWKING'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
