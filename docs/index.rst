@@ -13,11 +13,11 @@ Table of Contents
    :maxdepth: 3
    :numbered:
 
-HaawkingIDE/index
+  HaawkingIDE/index
 
-HXS320F2802X/index
+  HXS320F2802X/index
 
-HXS320F2803X/index
+  HXS320F2803X/index
 
 Indices and tables
 ==================
