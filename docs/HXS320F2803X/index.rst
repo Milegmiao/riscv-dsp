@@ -3,20 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to RISC-V DSP's Documentation!
+Welcome to RISC-V DSP HXS320F2803X Documentation!
 ==================================================
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
 
    *
 
-HaawkingIDE/index
-HXS320F2802X/index
-HXS320F2803X/index
+HXS320F28034PNT
 
 Indices and tables
 ==================
