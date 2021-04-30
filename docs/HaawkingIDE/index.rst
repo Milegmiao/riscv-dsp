@@ -12,6 +12,6 @@ Contents:
    :maxdepth: 2
    :caption: Haawking IDE:
 
-  Haawking IDE
+  Haawking-IDE
 
 
