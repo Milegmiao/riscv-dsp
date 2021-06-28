@@ -17,5 +17,11 @@ Tutorials
 
 中科昊芯Haawking IDE V0.0.8版功能演示，包括Flash密钥修改，RAM和Flash工程属性切换等。
 
-<iframe src="//player.bilibili.com/player.html?aid=928263600&bvid=BV1qT4y1K7oB&cid=272414698&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+.. image:: html
+  <iframe src="https://player.bilibili.com/player.html?aid=928263600&bvid=BV1qT4y1K7oB&cid=272414698&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  :width: 400
+  :alt: 中科昊芯Haawking IDE V0.0.8版功能演示
+
+
+
 
