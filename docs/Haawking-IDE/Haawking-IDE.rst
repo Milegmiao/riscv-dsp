@@ -14,11 +14,30 @@ V1.2.0
 
 Features
 ============
+Only Support New Version HX2000 Chips(202107 or later)
+
 
 
 
 Update Logs
 ============
+更新IQMath函数库，补全乘法以及类型转换的相关函数
+
+更新驱动库
+
+默认使用stdlib库文件
+
+更新027和034外设寄存器json文件
+
+
+
+Download Links
+============
+
+V1.2.0 IDE下载链接
+
+链接：https://pan.baidu.com/s/104ClHlWfdXQs9aH6ya97ag 提取码：hk19 
+
 
 
 Tutorials
