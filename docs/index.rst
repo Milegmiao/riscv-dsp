@@ -14,8 +14,6 @@ Table of Contents
    :numbered:
 
   Haawking-IDE/index
-  
-  Online-Course-2021/index
 
   HXS320F2802X/index
 
