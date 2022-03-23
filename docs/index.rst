@@ -5,6 +5,7 @@
 
 Welcome to RISC-V DSP's Documentation!
 ==================================================
+.. image:: wangyetou01.png
 
 Table of Contents
 -------------------
@@ -14,8 +15,6 @@ Table of Contents
    :numbered:
 
   Haawking-IDE/index
-  
-  Online-Course-2021/index
 
   HXS320F2802X/index
 
